@@ -15,10 +15,10 @@
 
 
 `/// Teachers of Guru \\\`
- Kannankara Moothapilla Asan	First Teacher
+ Kannankara Moothapilla Asan	  First Teacher
  Thaikkad Ayya                	Hatha Yoga   (aka Teacher of teachers)
  Chattampi Swamikal             Introduced Thaikkad Ayya
- Kummampally Raman Pillai	    Sanskrit
+ Kummampally Raman Pillai	      Sanskrit
 
  * First literary work `Gajendramoksham Vanchipattu`
 
@@ -124,11 +124,11 @@
    Translator       : N. Kumaran
 
  Chattampi Swamikal	    1882	Aniyur Temple
- Kumaran Asan	        1891	Kayikkara
+ Kumaran Asan	          1891	Kayikkara
  Dr. Palpu	            1895	Bangalore
  Ayyankali	            1912	Balaramapuram
  Vagbhatanandan	        1914	Advaita Ashram
- Ramana Maharshi	    1916	Thiruvannamalai (Nirvrithi Panchakam wrote after this meeting)
+ Ramana Maharshi	      1916	Thiruvannamalai (Nirvrithi Panchakam wrote after this meeting)
 
 
 

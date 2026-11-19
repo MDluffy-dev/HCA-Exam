@@ -16,7 +16,7 @@ Think of the Indian Constitution as the "master operating system" of India that 
 
 
 
-`/// 🏛 STRUCTURE & NATURE OF THE CONSTITUTION ///`
+`/// STRUCTURE & NATURE OF THE CONSTITUTION ///`
 Lengthiest Written Constitution
 World's most detailed written constitution
 
@@ -151,7 +151,7 @@ Amendments through different procedures
 
 
 
-`🏛 FEDERAL + UNITARY CHARACTER`
+`FEDERAL + UNITARY CHARACTER`
 
 Federal System with Unitary Bias 
   >> Quasi-Federal <<     - KC Wheier called it
@@ -174,7 +174,7 @@ Emergency Powers
 State Governors appointed by Centre
 
 Key Phrase:
- 👉 `Federal in form, Unitary in spirit`
+  `Federal in form, Unitary in spirit`
 
 
 
@@ -182,7 +182,7 @@ Key Phrase:
 
 
 
-`/// 🏛 FORM OF GOVERNMENT \\\`
+`/// FORM OF GOVERNMENT \\\`
 Parliamentary Government
  - Adopted from Britain
 
@@ -223,7 +223,7 @@ Result:     -   Parliament makes laws.  Supreme Court checks constitutionality
 
 
 
-`⚖ Integrated & Independent JUDICIARY`
+`Integrated & Independent JUDICIARY`
 
 > Hierarchy:
 
@@ -248,7 +248,7 @@ Protects Constitution
 
 
 
-`🛡 E. RIGHTS, POLICIES & DUTIES`
+`RIGHTS, POLICIES & DUTIES`
 
 > Fundamental Rights
   `Part III (Articles 12–35)`
@@ -329,7 +329,7 @@ Purpose:  `Duties of citizens towards nation`
 
 
 
-`/// 🕊Secular State \\\`
+`/// Secular State \\\`
 
 India:
 No State Religion
@@ -413,7 +413,7 @@ Unlike USA Indians have only one citizenship
 
 
 
-`/// 🏢 Independent Bodies  \\\`
+`/// Independent Bodies  \\\`
 
 Constitution creates bodies `independent of Government control`.
 
