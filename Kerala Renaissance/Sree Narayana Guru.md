@@ -175,7 +175,7 @@
 
 `/// Titles Given to Guru \\\`
  Second Buddha	: G. Sankara Kurup
- Periya Swamy	: Dr. Palpu
+ Periya Swamy	  : Dr. Palpu
  Royal Sculptor of Kerala Renaissance   :	P. Govinda Pillai
 
 
@@ -200,7 +200,7 @@
 
  1882           :	Met Chattampi
  1888           :	Aruvippuram Prathishta/ Vavoottuyogam
- 1889           :   1st Aruvippuram Kshethra Yogam
+ 1889           : 1st Aruvippuram Kshethra Yogam
  1891           :	Met Kumaran Asan
  1895           :	Met Dr. Palpu
 

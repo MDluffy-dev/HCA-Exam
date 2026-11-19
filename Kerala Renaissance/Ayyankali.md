@@ -16,6 +16,7 @@
  * One of Ayyankali's major efforts for the `educational upliftment` of the oppressed classes.
 
 
+
 `/// SJP Sangham \\\`
  Sadhujana Paripalana Sangham
  1907
@@ -29,8 +30,17 @@
  > Mouthpiece:
    Sadhujana Paripalini
     1913
+    India's first Dalit newspaper
     Publ. from `Sudharshana Press`, Changanassery
     1st Editor: Chembamthara Kalichothi Karuppan
+
+
+
+`/// Vengannoor Strike \\\`
+ 1909
+ `1st agricultural strike of Kerala`
+ For Dalit children could attend schools
+ Agricultural Boycott
 
 
 
@@ -66,7 +76,8 @@
 
 `/// Pulaya Lahala \\\`
  1915
- AKA `Uruttambalam Lahala` & `Tonnooramnadu Lahala`
+ 1090 AD so it is called as Tonnooramandu Lahala
+ AKA `Uruttambalam Lahala` & `Kandala Lahala`
  Objectives:
  * Education for lower-caste children
  * Better wages for workers
@@ -89,9 +100,9 @@
 
 
 `/// Titles \\\`
- King of Pulayas	        - Mahatma Gandhi
- Great Son of India	        - Indira Gandhi
- First Communist in India	- E.K. Nayanar
+ King of Pulayas	        - Mahatma Gandhi 1937
+ Great Son of India	      - Indira Gandhi  1980
+ First Communist in India	- E.K. Nayanar   
 
  ആളിക്കത്തിയ തീപ്പൊരി:	`Renaissance Description`
 
@@ -101,7 +112,7 @@
  18 June 1941
  Tomb: Panchajanyam
  > Memorial:
-   Chitrakootam, Venganoor
+   Chitrakootam, Venganoor Tvm
 
 
 
@@ -141,8 +152,9 @@
     
  1905          :	Kudipallikkoodam
  1907          :	Sadhujana Paripalana Sangham
+ 1909          :  Vengannoor Strike
     
- 1911          :	Praja Sabha Member (28 years member)
+ 1911          :	Praja Sabha Member (28 years - member)
  1912 Feb 27   :	First Praja Sabha Speech
  1912          :	Nedumangad Market Riot
  1913          :	Sadhujana Paripalini - Mouthpiece
@@ -154,4 +166,4 @@
     
  2002          :	Postal Stamp
  2010          :	Urban Employment Guarantee Scheme
- 2019 Aug 28   :    VJT Hall renamed to Ayyankali Hall, TVM
+ 2019 Aug 28   :  VJT Hall renamed to Ayyankali Hall, TVM
