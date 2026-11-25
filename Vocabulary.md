@@ -9,7 +9,7 @@ Inter Alia      : Among Other things
 
 Voracious       : Gluttonous
 
-Percipitate     : Cause an event to happen suddenly. - OPP: Delay
+Precipitate     : Cause an event to happen suddenly. - OPP: Delay
 
 Put off         : Postpone/Delay
 
@@ -21,7 +21,7 @@ Denigrate       : Belittle
 
 Insipid         : Lacking flavour/vigor/interest. Opp - Lively
 
-Solilquy        : The act of speaking to oneself
+Soliloquy        : The act of speaking to oneself
 
 Ephemeral       : Lasting for a very short time   Syn - Transient 
 
@@ -29,7 +29,7 @@ Loquacious      : Very Talkative  Opp - Taciturn
 
 Taciturn        : Reserved & Speaking little
 
-Numinsmatist    : Studies coins & medals
+Numismatist     : Studies coins & medals
 
 Philatelist     : Collects stamps
 
@@ -41,7 +41,7 @@ Sagacious       : Wise and shrewd
 
 Mitigate        : Lessen
 
-Recalcitrant    : Stuborn resistant to authority
+Recalcitrant    : Stubborn resistant to authority
 
 Acrophobia      : Fear of heights
 
@@ -53,7 +53,7 @@ Autocracy       : Rule by one
 
 Plutocracy      : Rule by the wealthy
 
-Sophoric        : Causing sleep
+Soporific       : Causing sleep
 
 Riveting        : extremely interesting, exciting, engrossing
 

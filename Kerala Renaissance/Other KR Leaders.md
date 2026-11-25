@@ -20,17 +20,29 @@
    1924
    Led `Savarna Jatha` (Gandhiji requested)
    Route: `Vaikom → Thiruvananthapuram`
+   1st organised struggle in Kerala against untochability
 
  > Guruvayur Satyagraha
-   President of Guruvayur Satyagraha Committee in 1931
+   `President` of Guruvayur Satyagraha Committee in 1931
+   Temple entry movement
 
  > Muthukulam Speech
    Delivered in `1947`
+   For responsible government
 
  > Liberation Struggle
    1959
    Against EMS Governemnt
+   Led `Jeeva Shika Jaatha` Angamaly to Tvm
+     * `1956 Nov 1` : Kerala state formed
+     * `1957 Apr 1` : 1st Kerala Legislative Assembly came into existence
+     * `1957 Apr 5` : EMS came to power
 
+ > Travancore Devaswom Board
+   1st President
+
+
+ * 1st person to give `speech` in `malayalam` at `Oxford University`
 
 
 
@@ -118,8 +130,7 @@
  Death: 25 Feb 1970
 
  Memorial:
-  1. Mannam  Memorial
-  2. Perunna, Changanassery
+  1. Mannam Memorial at Perunna, Changanassery
 
  Postal Stamp: 1989
 
@@ -156,7 +167,7 @@
   1st meeting               : `Karakkad, Kozhikode`
   Manifesto                 : `Atmavidya`
   Mouthpiece                : Abinava Keralam, 1921, Kozhikode
-  Poem Explaining Ideology  : Swatantra Chintamani
+  `Poem` Explaining Ideology  : Swatantra Chintamani
     
 
 
@@ -177,6 +188,11 @@
   OG name: Kumaran
  Conversion to Christianity: 1891
 
+  > Other Names:
+   1. Poikayil Appachan
+   2. Kumara Guru Devan
+   3. Pulayan Mathai
+
 
  `// Social Reform Activities \\`
   Opposed `discrimination` within Christianity
@@ -189,6 +205,7 @@
 
  `// Bible Burning \\`
   1906, Vakathanam
+  AKA `Vakathanam Adilahala`
   During Meeting
   Publicly protested Christian church discrimination
 
@@ -196,17 +213,15 @@
 
 
 
- `// Prathyaksha Raksha Daiva Sabha \\`
+ `// Prathyaksha Raksha Daiva Sabha (PRDS)\\`
   1909
   Founder: Poikayil Yohannan
   Emancipation of oppressed Dalits
-  Core concept: Dravidian Dalits who are not Christians or Hindus
+  Core concept: `Dravidian Dalits` who are not Christians or Hindus
+  `Members` known as `Adiyar Janatha`
   Hq: Eraviperur, Pattanamthitta
   `Mouthpiece`  : Adiyar Deepam
- > Other Names:
-   1. Poikayil Appachan
-   2. Kumara Guru Devan
-   3. Pulayan Mathai
+
    
 
 
@@ -231,6 +246,8 @@
  * 1924            :	Savarna Jatha : Vaikom > Tvm (MP led)
 
  1931              :	Guruvayur Satyagraha Committee (MP)
+ 
+ 1947              :  Muthukulam Speech
 
  1950              :	Democratic Congress by MP & R Shankar
  1959              :	MP's Liberation Struggle Against EMS

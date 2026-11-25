@@ -16,7 +16,7 @@
 
 `/// Teachers of Guru \\\`
  Kannankara Moothapilla Asan	  First Teacher
- Thaikkad Ayya                	Hatha Yoga   (aka Teacher of teachers)
+ Thaikkad Ayya                	Hatha Yoga   (aka Guru of Gurus)
  Chattampi Swamikal             Introduced Thaikkad Ayya
  Kummampally Raman Pillai	      Sanskrit
 
