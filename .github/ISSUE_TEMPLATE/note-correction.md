@@ -1,6 +1,3 @@
-
-
-
 ---
 name: Note Correction or Typo
 about: Report an incorrect fact, date, or spelling mistake

@@ -1,5 +1,3 @@
-
-
 ---
 name: Request or Suggest New Notes
 about: Suggest a missing syllabus topic or new study material to add
