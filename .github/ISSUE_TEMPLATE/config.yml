@@ -1,6 +1,5 @@
-
 blank_issues_enabled: false
 contact_links:
   - name: Quick Question or General Discussion
-    url: https://github.com
+    url: https://github.com/bibin-himself/HCA-Exam/issues/new?template=new-note-request.md
     about: Suggest a new study topic or ask about syllabus coverage
