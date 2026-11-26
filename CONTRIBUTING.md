@@ -3,15 +3,15 @@
 
 
 ---
-name: Note Correction or Typo
+### name: Note Correction or Typo
 
-about: Report an incorrect fact, date, spelling mistake, or formatting issue in the notes
+### about: Report an incorrect fact, date, spelling mistake, or formatting issue in the notes
 
-title: "[Correction] "
+### title: "[Correction] "
 
-labels: bug, documentation
+### labels: bug, documentation
 
-assignees: name
+### assignees: name
 ---
 
 ### File & Topic Name
