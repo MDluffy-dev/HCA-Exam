@@ -3,15 +3,11 @@
 
 
 ---
-### name: Note Correction or Typo
-
-### about: Report an incorrect fact, date, spelling mistake, or formatting issue in the notes
-
-### title: "[Correction] "
-
-### labels: bug, documentation
-
-### assignees: name
+- **name:** Note Correction or Typo
+- **about:** Report an incorrect fact, date, spelling mistake, or formatting issue in the notes
+- **title:** "[Correction] "
+- **labels:** bug, documentation
+- **assignees:** bibin-himself
 ---
 
 ### File & Topic Name
